@@ -8,6 +8,8 @@ Rafael Miyagawa Moreira
 
 Desenvolvido para processo seletivo - Engenheiro da Computacao - Senior
 
+O que falta fazer é apresentar no detalhamento do pet o vinculo de tutor e no card do tutor oo numero de pets vinculados.
+
 ---
 
 ## Sobre o Projeto
