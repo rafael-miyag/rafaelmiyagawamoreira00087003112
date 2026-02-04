@@ -8,7 +8,7 @@ Rafael Miyagawa Moreira
 
 Desenvolvido para processo seletivo - Engenheiro da Computacao - Senior
 
-O que falta fazer é apresentar no detalhamento do pet o vinculo de tutor e no card do tutor oo numero de pets vinculados.
+Apresentação no detalhamento do pet se há tutor vinculado não foi possivel devido a alguma limitação de retorno de dados na api, não realizei nova atualização somente para apresentar a melhoria.
 
 ---
 
